@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a strong interest for cyber
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Attack Log Analysis          | <a href="https://google.com">Active Directory and Attack Detecion Lab</a>|
+| SIEM Implementation and  Log Analysis          | <a href="[https://google.com](https://github.com/nsaini209/Active-Directory-Attack-Detection-Lab/blob/main/Active%20Directory%20%26%20Attack%20Detection%20Lab.pdf)">Active Directory Security & SIEM Monitoring Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
