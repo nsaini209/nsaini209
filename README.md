@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a strong interest for cyber
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and  Log Analysis          | <a href="https://github.com/nsaini209/Active-Directory-Attack-Detection-Lab/blob/main/Active%20Directory%20%26%20Attack%20Detection%20Lab.pdf">Active Directory Security & SIEM Monitoring Lab</a>|
 | Security Automation with Wazuh, TheHive, And Shuffle SOAR         |<a href="https://github.com/nsaini209/SOC-Simulation-Lab/blob/main/Soc%20Simulation%20Lab.pdf">SOC Automation Lab</a> |
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| AI-Driven IoT Defense (mTLS, HMAC, ML Anomaly Detection) | |
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
