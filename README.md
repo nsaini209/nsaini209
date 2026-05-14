@@ -1,7 +1,7 @@
 # Hello, I'm Navdeep
 <a href="https://www.linkedin.com/in/navdeep-saini-006b801b4/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with my Bachelors in Computer Science and have a profound interest in technology and learning new things in the world of Cyber Security.
+I am a recent graduate with my Bachelors in Computer Science and have a profound interest in technology and learning new things in the world of Cybersecurity.
 
 ## Objective
 
