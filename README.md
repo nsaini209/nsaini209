@@ -48,5 +48,6 @@ My journey in computer science has led me to develop a strong interest for cyber
 </div>
 
 ## Projects
-- Active Directory Attack Project
-- SOC Automation Project
+- Active Directory Security & SIEM Monitoring Lab
+- SOC Automation Lab
+- Project Hydroficient: Predictive Water Security System
